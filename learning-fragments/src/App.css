@@ -1,0 +1,15 @@
+.my-item{
+    background-color: rgb(113, 113, 222);
+    color: red;
+}
+
+.my-head{
+    color: brown;
+    background-color: rgb(233, 136, 136);
+}
+
+.my-indi{
+    color: rgb(20, 20, 20);
+    padding:10px 20px;
+    background-color: rgb(128, 128, 192);
+}
